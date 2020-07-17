@@ -1,4 +1,4 @@
-# svnpatch
+# svnpatch by vIsHnU
 svnpatch data new repository
 A description of GIT's unidiff-compatible patch extensions, which we might
 use for "svn patch" format. Copied from Augie Fackler's email
